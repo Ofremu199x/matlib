@@ -1,8 +1,8 @@
 
 firstName = ("Ofremu")
-lastName = (" Endurance")
+lastName = ("Endurance")
 
-fullName =(firstName + lastName)
+fullName =(f"My name is {firstName} {lastName}")
 
 print (fullName)
 
